@@ -6,5 +6,5 @@
 6. EPAM is officially listed on the New York Stock Exchange under the ticker symbol EPAM.
 7. The company is included in the prestigious S&P 500 stock market index.
 8. Its core expertise includes cloud migration, digital optimization, and advanced data analytics.
-9. In 2026, EPAM heavily focuses on building foundation-level, AI-native enterprise solutions.
-10. Major global analysts consistently recognize EPAM as a top-tier IT services and software leader.
+9. In 2026, EPAM heavily focuses on building AI-native enterprise solutions.
+10. Major global analysts consistently recognize EPAM as a software leader.
