@@ -4,7 +4,7 @@
 4. Source code is compiled into bytecode, which runs on the JVM.
 5. Primitive data types include int, double, boolean, and char.
 6. Objects are instances of classes created using the new keyword.
-7. Inheritance allows a subclass to inherit fields and methods but not static members.
-8. Interfaces define contracts that implementing classes must fulfill completely.
+7. Inheritance allows a subclass to inherit fields and methods but if they not static.
+8. Interfaces define contracts that implementing classes must fulfill.
 9. Exceptions handle runtime errors using try, catch, and finally blocks.
 10. The Java Garbage Collector automatically manages memory allocation.
