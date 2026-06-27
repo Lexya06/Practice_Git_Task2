@@ -1,10 +1,10 @@
-1. Java is a strongly typed, object-oriented programming language.
-2. Every Java application must have at least one class definition.
+1. Java is a strongly typed, object-oriented programming language that continue improving nowadays.
+2. Every Java application must have at least one class definition and each class file must have appropriate class name.
 3. The entry point of any standalone Java program is the main method.
 4. Source code is compiled into bytecode, which runs on the JVM.
 5. Primitive data types include int, double, boolean, and char.
 6. Objects are instances of classes created using the new keyword.
-7. Inheritance allows a subclass to inherit fields and methods.
-8. Interfaces define contracts that implementing classes must fulfill.
+7. Inheritance allows a subclass to inherit fields and methods but not static members.
+8. Interfaces define contracts that implementing classes must fulfill completely.
 9. Exceptions handle runtime errors using try, catch, and finally blocks.
 10. The Java Garbage Collector automatically manages memory allocation.
